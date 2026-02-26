@@ -14,7 +14,7 @@ service_account_credentials.json
 *.key
 
 # Data and Results
-*.xlsx
+
 *.csv
 *.jsonl
 *.parquet
@@ -27,11 +27,10 @@ extra/
 raw_data/
 raw_data_cloud/
 raw_data_device/
-llm_judge_responses/
 
 # Python/Environment
 __pycache__/
-*.py[cod]
+#*.py[cod]
 *$py.class
 .venv/
 venv/

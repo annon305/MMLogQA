@@ -1,0 +1,38 @@
+# Core Data & Visualization
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+openpyxl
+
+# NLP & Evaluation Metrics
+nltk
+rouge_score
+bert_score
+scikit-learn
+
+# LLM & Model Frameworks
+torch
+transformers
+datasets
+peft
+trl
+huggingface_hub
+qwen_vl_utils
+
+# LLM Judge
+openai
+
+# Training Utilities
+wandb
+python-dotenv
+tqdm
+
+# Web Scraping
+requests
+scrapy
+
+# Jupyter
+jupyter
+ipykernel
